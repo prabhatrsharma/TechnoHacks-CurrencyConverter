@@ -18,11 +18,12 @@ IDE: VSCODE
 - HTML
 - CSS
 - JAVASCRIPT
-- API <a href="https://www.exchangerate-api.com"> ExchangeRate-API</a>
+- API --> <a href="https://www.exchangerate-api.com"> ExchangeRate-API</a>
 
 GitHub Repository Link:https://github.com/prabhatrsharma/TechnoHacks-CountdownTimer.git
 
-Hosted Website Link: [https://prabharsharma.github.io/TechnoHacks-CurrencyConverter/](https://prabhatrsharma.github.io/TechnoHacks-CurrencyConverter/)
+Hosted Website Link: [[https://prabharsharma.github.io/TechnoHacks-CurrencyConverter/](https://prabhatrsharma.github.io/TechnoHacks-CurrencyConverter/)
+](https://prabhatrsharma.github.io/TechnoHacks-CurrencyConverter/)
 
 To know MORE about TECHNOHACKS EDUTECH Website: 
 
@@ -41,9 +42,6 @@ Mr. Sandip Gavit
 
 Please review and comment with your worthy suggestions.
 
-Thank You!!
-
--Prabhat Sharma
 ![image](https://github.com/prabhatrsharma/TechnoHacks-CurrencyConverter/assets/118990267/0fb7b586-da41-4966-a41a-19d0270274d0)
 
 
@@ -70,3 +68,8 @@ let url = `https://v6.exchangerate-api.com/v6/YOUR-API-KEY/latest/${fromCurrency
 It's important to note that the specific steps may vary depending on the API provider. Always refer to the official documentation provided by the API provider for accurate and up-to-date instructions on obtaining and using API keys.
 
 Additionally, remember to keep your API key secure and avoid sharing it publicly in your code or on public platforms. If your API key is compromised, unauthorized access to the API and potential abuse could occur.
+
+
+Thank You!!!
+
+- Prabhat Sharma
