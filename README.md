@@ -58,6 +58,12 @@ To obtain an API key for the exchange rate API mentioned in your code, you would
 
 5. **Replace 'YOUR-API-KEY':** In your JavaScript code, locate the URL where you make the API request, and replace `'YOUR-API-KEY'` with the actual API key you obtained.
 
+Here's an example of what the URL might look like before you replace `'YOUR-API-KEY'` with your actual API key:
+
+```javascript
+let url = `https://v6.exchangerate-api.com/v6/YOUR-API-KEY/latest/${fromCurrency.value}`;
+```
+
 Here's an example of what the URL might look like after you replace `'YOUR-API-KEY'` with your actual API key:
 
 ```javascript
