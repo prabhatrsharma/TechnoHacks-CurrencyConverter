@@ -6,7 +6,7 @@ Currency Converter at TechnoHacks
 
 Hello connections,
 
-I'm excited to share #task5 of my internship with The TECHNOHACKS EDUTECH in Web development under the Technohacks - 'Lets Grow Together' Program
+I'm excited to share #task4 of my internship with The TECHNOHACKS EDUTECH in Web development under the Technohacks - 'Lets Grow Together' Program
 
 #BATCH8
 
@@ -22,8 +22,7 @@ IDE: VSCODE
 
 GitHub Repository Link:https://github.com/prabhatrsharma/TechnoHacks-CountdownTimer.git
 
-Hosted Website Link: [[https://prabharsharma.github.io/TechnoHacks-CurrencyConverter/](https://prabhatrsharma.github.io/TechnoHacks-CurrencyConverter/)
-](https://prabhatrsharma.github.io/TechnoHacks-CurrencyConverter/)
+Hosted Website Link: [https://prabharsharma.github.io/TechnoHacks-CurrencyConverter/](https://prabhatrsharma.github.io/TechnoHacks-CurrencyConverter/)
 
 To know MORE about TECHNOHACKS EDUTECH Website: 
 
