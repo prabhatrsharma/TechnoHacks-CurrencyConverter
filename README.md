@@ -64,10 +64,14 @@ Here's an example of what the URL might look like before you replace `'YOUR-API-
 let url = `https://v6.exchangerate-api.com/v6/YOUR-API-KEY/latest/${fromCurrency.value}`;
 ```
 
+#### Here's an example of showing API key:
+![API](https://github.com/prabhatrsharma/TechnoHacks-CurrencyConverter/assets/118990267/d4f10bcc-b970-4bc4-bc3a-190297f1cf94)
+
+
 Here's an example of what the URL might look like after you replace `'YOUR-API-KEY'` with your actual API key:
 
 ```javascript
-let url = `https://v6.exchangerate-api.com/v6/YOUR-API-KEY/latest/${fromCurrency.value}`;
+let url = `https://v6.exchangerate-api.com/v6/afb0ebb9d423e2a361ce8d20/latest/${fromCurrency.value}`;
 ```
 
 It's important to note that the specific steps may vary depending on the API provider. Always refer to the official documentation provided by the API provider for accurate and up-to-date instructions on obtaining and using API keys.
