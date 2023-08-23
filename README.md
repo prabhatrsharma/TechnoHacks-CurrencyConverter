@@ -20,7 +20,7 @@ IDE: VSCODE
 - JAVASCRIPT
 - API --> <a href="https://www.exchangerate-api.com"> ExchangeRate-API</a>
 
-GitHub Repository Link:https://github.com/prabhatrsharma/TechnoHacks-CountdownTimer.git
+GitHub Repository Link:https://github.com/prabhatrsharma/TechnoHacks-CurrencyConverter.git
 
 Hosted Website Link: [https://prabharsharma.github.io/TechnoHacks-CurrencyConverter/](https://prabhatrsharma.github.io/TechnoHacks-CurrencyConverter/)
 
